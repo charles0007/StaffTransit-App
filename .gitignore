@@ -9,8 +9,9 @@
 .history
 .svn/
 migrate_working_dir/
-android/app/src/main/AndroidManifest.xml
+/android/app/src/main/AndroidManifest.xml
 
+# /android/**/AndroidManifest.xml
 
 
 # IntelliJ related
