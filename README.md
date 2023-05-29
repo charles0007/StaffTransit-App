@@ -19,7 +19,7 @@ The StaffTransit project utilizes the following technologies:
 - Microservices:
   - Backend: Node.js (TypeScript) and Golang
   - API Repository: [https://github.com/charles0007/StaffTransit-Services](https://github.com/charles0007/StaffTransit-Services)
-  - Messaging Queue: RabbitMQ
+  - Event Bus: RabbitMQ
 
 ## How to Run the Flutter App
 
